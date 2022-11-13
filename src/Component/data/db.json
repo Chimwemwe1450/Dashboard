@@ -1,0 +1,33 @@
+{
+    "Company":[
+        {
+            "Employee_name":"Chimwemwe",
+            "Employee_Surname":"Chilambe",
+            "Preformance_inedex":50
+        },
+        {
+            "Employee_name1":"Tshepo",
+            "Employee_Surname1":"Thornton",
+            "Preformance_inedex": 60
+        },
+        {
+            "Employee_name2":"Ben",
+            "Employee_Surname2":"Bird",
+            "Preformance_inedex":70
+        },
+        {
+            "Employee_name3":"Ben",
+            "Preformance_inedex":80
+        },
+        {
+            "Employee_nam4":"Ben",
+            "Preformance_inedex":90
+        },
+        {
+            "Employee_name5":"Ben",
+            "Preformance_inedex":100
+        }
+]
+
+    
+}
